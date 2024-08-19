@@ -3,7 +3,7 @@ const alternatives = [
   {text:"Te prometo que solo uno", images:"https://i.pinimg.com/originals/77/c5/1f/77c51f52672bf045d924798d3a0898fb.gif"},
   {text:"Piénsalo de nuevo", images:"https://i.pinimg.com/originals/ae/b8/21/aeb821a50e33dff74cdeee4cea89c1a4.gif"},
   {text:"Vamos, atrévete a decir que sí", images:"https://i.pinimg.com/originals/d1/22/cb/d122cbf31e6601bf19f0673b2b751b5f.gif"},
-  {text:"dime q si alejita", images:"https://i.pinimg.com/originals/30/69/3a/30693a38782413b6fa6359c1c6cb125c.gif"}
+  {text:"dime q si😭😭😭", images:"https://i.pinimg.com/originals/30/69/3a/30693a38782413b6fa6359c1c6cb125c.gif"}
 ];
 const ohyes = {text:"Sabía que aceptarías", images:"https://i.pinimg.com/originals/4b/04/46/4b04463573210325d8ec064faf51a950.gif"};
 const title = document.querySelector('.title');
